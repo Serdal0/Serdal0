@@ -1,0 +1,33 @@
+<svg width="800" height="180" viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .container { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+      .title { font-size: 46px; font-weight: 900; text-anchor: middle; letter-spacing: -1px; }
+      .subtitle { font-size: 24px; font-weight: 400; text-anchor: middle; letter-spacing: 0.5px; }
+      .pipe { font-weight: 300; opacity: 0.5; }
+      
+      /* Varsayılan (Aydınlık Mod) */
+      .bg-rect { fill: transparent; } /* Arka planı şeffaf bırakır, GitHub rengini alır */
+      .title-text { fill: #24292f; }
+      .subtitle-text { fill: #57606a; }
+      .highlight { fill: #0969da; font-weight: 600;}
+
+      /* Karanlık Mod Algılama */
+      @media (prefers-color-scheme: dark) {
+        .title-text { fill: #c9d1d9; }
+        .subtitle-text { fill: #8b949e; }
+        .highlight { fill: #58a6ff; }
+      }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="100%" height="100%" class="bg-rect" />
+
+  <g class="container" transform="translate(400, 95)">
+    <text y="-10" class="title title-text">BACKEND ENGINEER</text>
+    
+    <text y="35" class="subtitle subtitle-text">
+      Java <tspan class="pipe mx-2">|</tspan> Spring Boot <tspan class="pipe mx-2">|</tspan> REST APIs
+    </text>
+  </g>
+</svg>
