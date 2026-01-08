@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="./simple-banner.svg" width="100%" />
+</div>
+<br/>
+
+
+
 ### 🛠️ Teknolojiler
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge)
