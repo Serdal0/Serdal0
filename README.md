@@ -38,8 +38,8 @@ Backend odaklı çalışan, Java ve Spring Boot ekosisteminde RESTful servisler 
 
 ### 📊 GitHub İstatistikleri
 ![Stats](https://github-readme-stats.vercel.app/api?username=Serdal0&show_icons=true&theme=tokyonight&hide_border=true)
-<img src="https://streak-stats.demolab.com?user=Serdal0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Serdal0&theme=tokyonight&hide_border=true&token=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)
+ 
 
 
 
