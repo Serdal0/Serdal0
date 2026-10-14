@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="./simple-banner.svg" width="100%" />
-</div>
-<br/>
-
-
 <img src="simple-banner.svg" alt="Serdal Kolpar" width="100%">
 
 <div align="center">
