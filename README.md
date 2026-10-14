@@ -4,60 +4,53 @@
 <br/>
 
 
-## Merhaba, ben Serdal 👋
-Backend odaklı çalışan, Java ve Spring Boot ekosisteminde RESTful servisler geliştiren bir Bilgisayar Mühendisiyim.
+Merhaba, ben Serdal 👋
 
-- 🔭 Java & Spring Boot ile backend geliştirme
-- 🌱 Microservice mimarileri ve clean code
-- ⚡ REST API, JPA, Hibernate, Security
+Bilgisayar Mühendisiyim (İnönü Üniversitesi, 2026). Java & Spring Boot ve Node.js ile RESTful servisler geliştiriyor, React ile uçtan uca çözümler üretiyorum. Katmanlı mimari, Clean Code ve SOLID prensiplerine önem veriyorum. Şu an Junior Java / Node.js geliştirici pozisyonlarına açığım.
 
+🔭 Java & Spring Boot ile backend geliştirme
+🔐 Spring Security ve JWT ile kimlik doğrulama
+🗄️ PostgreSQL, JPA / Hibernate, Redis ile veri katmanı
+🐳 Docker ve Kubernetes ile containerize edilmiş uygulamalar
+🛠️ Teknolojiler
 
-### 🛠️ Teknolojiler
+Backend
 
-#### Backend
-![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+Görseli göster Görseli göster Görseli göster Görseli göster Görseli göster Görseli göster
 
-#### Veri & ORM
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge)
+Frontend
 
-#### Araçlar & Altyapı
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
+Görseli göster Görseli göster
 
-#### Diğer
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
+Veri & DevOps
 
+Görseli göster Görseli göster Görseli göster Görseli göster Görseli göster Görseli göster Görseli göster
 
+💼 Deneyim
 
-### 📊 GitHub İstatistikleri
-![Stats](https://github-readme-stats.vercel.app/api?username=Serdal0&show_icons=true&theme=tokyonight&hide_border=true)
+Full-Stack Developer Intern, Inavitas (Ankara) · Şubat 2026 – Haziran 2026 Node.js, TypeScript ve React ile web uygulamaları; Express.js ile REST API; PostgreSQL sorgu optimizasyonu; Redis ile caching; Docker ve Kubernetes.
 
- 
+🚀 Projeler
+🚗 car-rental-system
 
+Spring Boot REST API ve React frontend ile full-stack araç kiralama sistemi. Spring Security + JWT ile güvenlik, JPA/Hibernate ile PostgreSQL veri erişimi.
 
+📂 Dosya-Okuma-Karsilastirma-Sistemi
 
+Node.js ile yazılmış CLI aracı: karakter bazlı ve edit-distance tabanlı diff analizi, renkli terminal çıktısı.
 
+🦴 Kirik-Kol-Tespiti
 
+Röntgen görüntülerinde kırık tespiti için Python, OpenCV ve PyTorch ile ön işleme pipeline'ları (normalizasyon, kenar tespiti, HOG, Gauss piramidi).
 
+🏠 Android-Emlak-Ilan-Uygulamasi
 
+Kotlin, Firebase Auth ve Firestore ile geliştirilmiş Android emlak ilan uygulaması.
 
-### 🚀 Öne Çıkan Projeler
+🧮 Data-Alogirthm
 
-- 🚗 **Araç Kiralama Sitesi**  
-  Spring Boot tabanlı backend mimarisi ile araç, kullanıcı ve rezervasyon yönetimi.  
-  RESTful servisler, JWT tabanlı kimlik doğrulama ve PostgreSQL kullanıldı.
+KNN, K-Means, Gini Index ve Twoing algoritmalarının sıfırdan implementasyonu.
 
-- 🦴 **Kırık Kol Tespiti**  
-  Görüntü işleme ve makine öğrenmesi temelli kırık kol tespiti projesi.  
-  Veri analizi ve model çıktılarının backend servisler üzerinden sunulması.
-
-- 🔗 **Spring Boot REST API**  
-  Katmanlı mimari ile geliştirilmiş örnek REST API.  
-  CRUD işlemleri, validation, exception handling ve JPA/Hibernate kullanımı.
+📫 İletişim
+💼 LinkedIn: serdal-kolpar
+📧 E-posta: kolparserdal0@gmail.com
